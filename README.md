@@ -80,7 +80,7 @@ requirements.txt
 ```bash
 # Clone repo
 git clone https://github.com/Nebiyou-x/news-sentiment.git
-cd Nebiyou-x
+cd news-sentiment
 
 # Create & activate venv
 python -m venv .venv
